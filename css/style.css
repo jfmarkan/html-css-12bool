@@ -1,0 +1,18 @@
+[class*='col']{
+    background-color: #006cfa;
+    border: 1px solid;
+    font-size: .8rem;
+    text-align: center;
+    color: white;
+    padding: .5rem;
+    min-height: 30px;
+}
+
+.container{
+    margin-bottom: 1rem;
+}
+
+div.col-6 div.row div{
+    background-color: #01e165;
+    border-color: #006cfa;
+}
