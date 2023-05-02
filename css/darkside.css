@@ -1,0 +1,35 @@
+body{
+    background-color: #000000;
+}
+
+.black{
+    background-color: #231f20;
+}
+
+.white{
+    background-color: #ffffff;
+}
+
+.light-blue{
+    background-color: #e0f8f8;
+}
+
+.red{
+    background-color: #ed1b24;
+}
+
+.yellow{
+    background-color: #fef200;
+}
+
+.green{
+    background-color: #8ec63f;
+}
+
+.blue{
+    background-color: #00adef;
+}
+
+.violet{
+    background-color: #7e54aa;
+}
