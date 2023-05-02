@@ -1,0 +1,31 @@
+body{
+    background-color: dimgray;
+}
+
+.white{
+    background-color: #FFF;
+}
+
+.black{
+    background-color: #000;
+}
+
+.red{
+    background-color: #F00;
+}
+
+.blue{
+    background-color: #00F;
+}
+
+.brown{
+    background-color: #6c4317;
+}
+
+.yellow{
+    background-color: #f2e821;
+}
+
+.skin{
+    background-color: #e9c452;
+}
